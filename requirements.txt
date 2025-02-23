@@ -1,0 +1,8 @@
+customtkinter
+selenium
+undetected-chromedriver
+requests
+pandas
+seleniu-mwire
+tkinter
+openpyxl
